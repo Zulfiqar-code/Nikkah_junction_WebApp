@@ -1,0 +1,20 @@
+It connects users looking for marriage through a secure profile-based matchmaking system.
+
+
+What Nikkah Junction Needs (Requirements)
+1. Functional Requirements
+User registration & login
+Profile creation and editing
+Search/filter matches
+View other profiles
+Basic interaction/connection system
+2. Technical Requirements
+Frontend: HTML, CSS, JavaScript
+Backend: PHP (or Node.js)
+Database: MySQL
+Server: XAMPP / WAMP
+3. Non-Functional Requirements
+ Data privacy & security
+ Fast performance
+ User-friendly interface
+ Reliable database management
